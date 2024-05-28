@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boa vinda no meu perfil 🖤
 
-<!--
-**lazaroteixeira/lazaroteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lazaro Teixeira
 
-Here are some ideas to get you started:
+*Estou estudando no alura
+*Estou me desenvolvendo ma linguagem javascript
+*Utilizando esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###(Vocé entre em contato comigo)📫
+
+lazaroteixeira855@gmail.com
+
+@lazaroteixeira
+
+![image](https://github.com/lazaroteixeira/lazaroteixeira/assets/170442362/9fbe5d1c-eeca-4fd1-bd94-98346d192366)
+
